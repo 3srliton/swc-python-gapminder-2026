@@ -1,0 +1,27 @@
+[project]
+name = "swc-python-gapminder-2026"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Sarah Stueve", email = "sarahstueve@arizona.edu" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.6.3",
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.3",
+    "pandas>=3.0.5",
+    "plotly>=7.0.0",
+    "plotnine>=0.15.8",
+    "seaborn>=0.13.2",
+]
+
+[project.scripts]
+swc-python-gapminder-2026 = "swc_python_gapminder_2026:main"
+
+[build-system]
+requires = ["uv_build>=0.12.9,<0.13.0"]
+build-backend = "uv_build"
