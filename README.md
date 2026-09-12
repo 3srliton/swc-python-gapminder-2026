@@ -13,6 +13,6 @@ git clone git@github.com:sarahstueve/swc-python-gapminder-2026.git
 
 NOTE: this is the SSH version of the clone command. If you need to clone using HTTPS (i.e., you haven't created an SSH key), use that link instead! For more information on cloning a repository, click [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to view the GitHub documentation.
 
-The <a href="https://github.com/sarahstueve/swc-python-gapminder-2026">SWC Python gapminder workshop</a> © 2026 by <a href="https://github.com/carpentries">The Carpentries</a> and (this repository) by <a href="https://github.com/sarahstueve">Sarah Stueve</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+The <a href="https://swcarpentry.github.io/python-novice-gapminder/index.html">SWC Python gapminder workshop</a> © 2026 by <a href="https://github.com/carpentries">The Carpentries</a> and <a href="https://github.com/sarahstueve/swc-python-gapminder-2026">swc-python-gapminder-2026</a> © 2026 by <a href="https://github.com/sarahstueve">Sarah Stueve</a> and <a href="https://github.com/DevinBayly">Devin Bayly</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
 
 
